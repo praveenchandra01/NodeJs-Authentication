@@ -1,6 +1,6 @@
 # NodeJs-Authentication
-User can Login, Register or can directly login with google
-
+- User can Login, Register themselves or can directly login with google
+- User data save on Database (Password in hashed form)
 ## Technology
 The application is built with:
 
