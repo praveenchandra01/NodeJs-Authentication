@@ -11,5 +11,6 @@ The application is built with:
 - FontAwesome version 5.13.0
 - Nodemailer: used to send emails from the contact us form
 - Passport: used for authentication
+- Oauth 2.0 for google login
 #### App is deployed on Heroku
 - Access link : https://node-x-auth.herokuapp.com/
