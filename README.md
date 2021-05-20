@@ -1,4 +1,5 @@
 # NodeJs-Authentication
+User can Login, Register or can directly login with google
 
 ## Technology
 The application is built with:
