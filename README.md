@@ -1,4 +1,5 @@
 # NodeJs-Authentication
+- This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages
 - User can Login, Register themselves or can directly login with google
 - User data save on Database (Password in hashed form)
 ## Technology
