@@ -16,3 +16,7 @@ The application is built with:
 - Oauth 2.0 for google login
 #### App is deployed on Heroku
 - Access link : https://node-x-auth.herokuapp.com/
+
+### Dummy Credentials
+   Username : tonystark@gmail.com
+   Password : imironman
