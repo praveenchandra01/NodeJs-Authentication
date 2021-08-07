@@ -9,7 +9,7 @@ The application is built with:
 - MongoDB version 4.2.0
 - Express version 4.16.1
 - EJS view engine
-- Bootstrap version 4.4.1
+- Bootswatch
 - FontAwesome version 5.13.0
 - Nodemailer: used to send emails from the contact us form
 - Passport: used for authentication
